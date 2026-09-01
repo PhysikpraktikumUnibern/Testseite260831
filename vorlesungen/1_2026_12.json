@@ -1,0 +1,1 @@
+{	"datum" : "01.10.2026",	"lektionen" : 	[		{			"lektion" : "12",			"lektion_nr" : 12,			"versuche" : 			[				{					"bild" : "bilder/492.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "00",					"text" : "",					"thumbnail" : "thumbs/492.jpg",					"versuch" : "Massstab 1m aus Holz (Requisite)",					"versuch_id" : 492				}			]		}	],	"vorlesung" : "12"}
