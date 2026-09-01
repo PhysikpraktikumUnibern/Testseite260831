@@ -1,0 +1,1 @@
+{	"datum" : "18.05.2026",	"lektionen" : 	[		{			"lektion" : "48",			"lektion_nr" : 48,			"versuche" : 			[				{					"bild" : "bilder/443.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "02",					"text" : "",					"thumbnail" : "thumbs/443.jpg",					"versuch" : "LHEP Modell Zyklotron",					"versuch_id" : 443				}			]		}	],	"vorlesung" : "48"}
