@@ -1,0 +1,1 @@
+{	"datum" : "04.12.2026",	"lektionen" : 	[		{			"lektion" : "60",			"lektion_nr" : 60,			"versuche" : 			[				{					"bild" : "bilder/404.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "08",					"text" : "",					"thumbnail" : "thumbs/404.jpg",					"versuch" : "EMANIM",					"versuch_id" : 404				}			]		}	],	"vorlesung" : "36"}
