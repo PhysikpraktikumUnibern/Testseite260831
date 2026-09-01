@@ -1,0 +1,1 @@
+{	"datum" : "21.09.2026",	"lektionen" : 	[		{			"lektion" : "05",			"lektion_nr" : 5,			"versuche" : 			[				{					"bild" : "bilder/381.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "02",					"text" : "",					"thumbnail" : "thumbs/381.jpg",					"versuch" : "Crash Test (Video)",					"versuch_id" : 381				}			]		}	],	"vorlesung" : "05"}
