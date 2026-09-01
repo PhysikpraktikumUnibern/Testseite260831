@@ -1,0 +1,1 @@
+{	"datum" : "22.04.2026",	"lektionen" : 	[		{			"lektion" : "35",			"lektion_nr" : 35,			"versuche" : 			[				{					"bild" : "bilder/391.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "01",					"text" : "",					"thumbnail" : "thumbs/391.jpg",					"versuch" : "Lineare Superpostion (Video)",					"versuch_id" : 391				}			]		}	],	"vorlesung" : "35"}
