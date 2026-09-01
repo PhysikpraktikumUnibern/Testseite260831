@@ -1,0 +1,1 @@
+{	"datum" : "18.02.2026",	"lektionen" : 	[		{			"lektion" : "03",			"lektion_nr" : 3,			"versuche" : 			[				{					"bild" : "bilder/485.jpg",					"bild_vorhanden" : 1,					"reihenfolge" : "03",					"text" : "",					"thumbnail" : "thumbs/485.jpg",					"versuch" : "Influenzmaschine",					"versuch_id" : 485				}			]		}	],	"vorlesung" : "03"}
